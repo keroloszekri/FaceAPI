@@ -157,7 +157,6 @@ F:\Full Stack\Task\Aphrie\FaceApp\FaceApp\bin\Debug\netcoreapp3.1\System.Identit
 F:\Full Stack\Task\Aphrie\FaceApp\FaceApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 F:\Full Stack\Task\Aphrie\FaceApp\FaceApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 F:\Full Stack\Task\Aphrie\FaceApp\FaceApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-F:\Full Stack\Task\Aphrie\FaceApp\FaceApp\obj\Debug\netcoreapp3.1\FaceApp.csprojAssemblyReference.cache
 F:\Full Stack\Task\Aphrie\FaceApp\FaceApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 F:\Full Stack\Task\Aphrie\FaceApp\FaceApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 F:\Full Stack\Task\Aphrie\FaceApp\FaceApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll

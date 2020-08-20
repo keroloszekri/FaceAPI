@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using FaceApp.Model;
 using FaceApp.Services;
@@ -20,8 +21,10 @@ namespace FaceApp.Controllers
             this.PostService = PostService;
         }
 
+
+        [Authorize(AuthenticationSchemes = "Bearer")]
         [HttpGet]
-        [AllowAnonymous]
+        //[Route("api/Tokens")]
         public IEnumerable<Posts> Get()
         {
             return PostService.GetAll();
